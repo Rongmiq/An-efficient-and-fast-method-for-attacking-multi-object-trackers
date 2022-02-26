@@ -1,2 +1,5 @@
-# EAAMOT
-Efficient Adversarial Attacks for Multiple Object Tracking.
+# EAAMOT: Efficient Adversarial Attacks for Multiple Object Tracking.
+An efficient and fast attack multi-object tracker method.
+
+## Abstract:
+Multiple Object Tracking (MOT) is an essential but challenging task in computer vision. In recent years, most state-of-the-art trackers have formulated the MOT task as two sub-problem: object detection and data association. They have achieved the top performance on the most popular benchmarks with the help of excellent detectors and robust ReID modules. However, whether MOT is as vulnerable as DNNs remains to be studied. To explore the robustness of detector and ReID modules in MOT, we propose an effective adversarial attack method to fool them. A series of detection and ReID losses is presented for training disturbance generators. Specifically, we build a vanishing and shrinkage loss to cool the heatmap of the detector and shrink the detection box. For ReID models, we propose a ReID loss to blind and confuse it so that the tracker cannot locate different targets correctly in the videos. TraDeS is the primary tracker of the white-box attack in this work. Further, we transfer our method as a black-box attack method to other trackers, including CenterTrack, FairMOT, and ByteTrack. Extensive experiments on COCO, MOT16, MOT17, and MOT20 datasets show that our method is effective and universal.
