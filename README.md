@@ -234,7 +234,7 @@ year={2021}}
 ```
 
 ## Acknowledgement
-A large part of the code is borrowed from  [TraDeS](https://github.com/JialianW/TraDeS), [CenterTrack](https://github.com/xingyizhou/CenterTrack), [FairMOT](https://github.com/ifzhang/FairMOT), and [ByteTrack](https://github.com/ifzhang/ByteTrack), [CenterNet](https://github.com/xingyizhou/CenterNet), and [pix2pix](https://github.com/phillipi/pix2pix). Thanks for their wonderful works.
+A large part of the code is borrowed from  [TraDeS](https://github.com/JialianW/TraDeS), [CenterTrack](https://github.com/xingyizhou/CenterTrack), [FairMOT](https://github.com/ifzhang/FairMOT), [ByteTrack](https://github.com/ifzhang/ByteTrack), [CenterNet](https://github.com/xingyizhou/CenterNet), and [pix2pix](https://github.com/phillipi/pix2pix). Thanks for their wonderful works.
 
 
 
