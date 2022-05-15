@@ -1,5 +1,5 @@
-# EAAMOT: Efficient Adversarial Attacks for Multiple Object Tracking.
-An efficient and fast attack multi-object tracker method.
+# An efficient and fast attack multi-object tracker method.
+
 
 <p align="center"> <img src="images/MOT-03-AD.gif" width="600" hight='400'/> Original </p>
 <p align="center"> <img src="images/MOT-03-III.gif" width="600" hight='400'/> III Attack </p>
