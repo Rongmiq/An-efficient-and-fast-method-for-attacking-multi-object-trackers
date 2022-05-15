@@ -1,4 +1,4 @@
-# An efficient and fast method for attacking multi-target trackers.
+# An efficient and fast method for attacking multi-object trackers.
 The code will be all open source in the future and is currently being sorted out. . . 
 
 <p align="center"> <img src="images/MOT-03-AD.gif" width="600" hight='400'/> Original </p>
