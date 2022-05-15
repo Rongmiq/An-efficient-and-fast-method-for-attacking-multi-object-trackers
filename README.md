@@ -13,7 +13,7 @@ Visualization results on MOT17 val set. ‘-AD’ and ‘-AR’ represent attack
 
 | Method      | MOTA  | MOTA | MOTA   | MOTA    | IDF1  |  IDF1|  IDF1  |  IDF1  | IDs   | IDs |  IDs   | IDs    |
 |-------------|-------|------|--------|---------|-------|------|--------|--------|-------|-----|--------|--------|
-|             | Clean | AD   | AR+III | AR+IDI  | Clean | AD   | AR+III | AR+IDI | Clean | AD  | AR+III | AR+IDI |
+|             | Original | AD   | AR+III | AR+IDI  | Original | AD   | AR+III | AR+IDI | Original | AD  | AR+III | AR+IDI |
 | TraDeS      | 68.2  | 45.4 | 4.7    | -399.2  | 71.7  | 53.6 | 7      | 4.3    | 285   | 338 | 315    | 1393   |
 | CenterTrack | 66.1  | 41.8 | 8.7    | -236.7  | 64.2  | 43.3 | 10.4   | 7.4    | 528   | 797 | 436    | 920    |
 | FairMOT     | 69.1  | 58.6 | 31.3   | 31      | 72.8  | 50.3 | 35     | 33.4   | 299   | 376 | 470    | 1130   |
